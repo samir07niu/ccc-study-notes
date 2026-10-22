@@ -9,7 +9,8 @@ Personal study notes of **Samir Raja (CYBER07)** for the CCC (Certified Cyber Cr
 | # | Module | Status |
 |---|---|---|
 | 1 | [Introduction to Cyber Criminology](module-01-introduction-to-cyber-criminology.md) | Done |
-| 2-30 | Crime scene & evidence, LEA investigation techniques, digital forensics, dark web, crypto analysis, fraud workflows, and more | In progress - one module at a time |
+| 2 | [Crime Scene Investigation Evidences](module-02-crime-scene-investigation-evidences.md) | Done |
+| 3-30 | LEA investigation techniques, digital forensics, dark web, crypto analysis, fraud workflows, and more | In progress - one module at a time |
 
 ## Why public?
 
